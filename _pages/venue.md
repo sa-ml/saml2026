@@ -1,5 +1,5 @@
 ---
-title: SAML 2026 Venue
+title: Venue
 layout: splash
 permalink: /venue
 # toc: true
@@ -7,10 +7,10 @@ permalink: /venue
 # toc_icon: "cog"
 header:
   overlay_image: "/assets/images/SAML.png"
-  overlay_filter: 0.4
-  actions:
-    - label: "Know more"
-      url: "https://sa-ml.github.io/saml2026/"
+  overlay_filter: 0.1
+  #actions:
+  #  - label: "Know more"
+  #    url: "https://sa-ml.github.io/saml2026/"
   # caption: 'Photo from <a href="https://drive.google.com/drive/u/0/folders/10XXSEjTNDmrwU0tqL58la1n3YlE-g4V8">EMNLP 2023 Website Image.png</a> '
 ---
 

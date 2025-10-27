@@ -1,10 +1,10 @@
 ---
-title: "5th International Workshop on Software Architecture and Machine Learning"
+title: " "
 layout: splash
 permalink: /
 header:
   overlay_image: "/assets/images/SAML.png"
-  overlay_filter: 0.4
+  overlay_filter: 0.1
   actions:
     - label: "Call for Papers"
       url: "https://sa-ml.github.io/saml2026/calls/submissions"
@@ -13,7 +13,7 @@ header:
 ---
 
 ## Welcome!
-SAML 2026 will be co-located with the 23rd IEEE International Conference on Software Architecture (ICSA) 2026, **June 22 - 26, 2026**, Amsterdam, The Netherlands.
+The **5th International Workshop on Software Architecture and Machine Learning (SAML 2026)** will be co-located with the 23rd IEEE International Conference on Software Architecture (ICSA) 2026, **June 22 - 26, 2026**, Amsterdam, The Netherlands.
 
 
 ## News
@@ -22,7 +22,7 @@ SAML 2026 will be co-located with the 23rd IEEE International Conference on Soft
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| 2026-10-20 | The official SAML 2026 website is launched.
+| 2025-10-27 | The official SAML 2026 website is launched.
 
 {: .news-table}
 
