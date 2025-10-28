@@ -26,7 +26,7 @@ sidebar:
 {% include committee-member.html
    name="Marie Platenius-Mohr"
    picture="../assets/images/committee/marie.jpg"
-   site="http://www.platenius.de/Marie/"
+   site="https://www.linkedin.com/in/marie-christin-platenius-mohr-a77b89158/"
    institution="ABB AG Corporate Research, Germany"
    email = "marie.platenius-mohr@de.abb.com"
 %}

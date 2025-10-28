@@ -52,7 +52,7 @@ All contributions should be submitted before the submission deadline using ICSA'
 ## Proceedings
 
 The accepted regular and short papers will be published in _ICSA 2026 Companion proceedings_, and appear in _IEEE Xplore Digital Library_. The position papers will be published in the SAML 2026 web page. At least one author of each accepted paper should register for the conference and participate in the workshop.
-The accepted regular and short papers will be published in _ICSA 2026 Companion proceedings_, and appear in _IEEE Xplore Digital Library_. The position papers will be published in the SAML 2026 web page. At least one author of each accepted paper should register for the conference and participate in the workshop.
+The accepted short papers will be published in _ICSA 2026 Companion proceedings_, and appear in _IEEE Xplore Digital Library_. The position papers will be published in the SAML 2026 web page. At least one author of each accepted paper must register for the conference and participate in the workshop to present the paper in person. Papers that are not presented will be excluded from the proceedings.
 
 
 ## Submission Deadlines 
