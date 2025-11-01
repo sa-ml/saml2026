@@ -23,7 +23,11 @@ The increasing use of machine learning (ML) combined with the software architect
 i) software architecture for ML-enabled systems (SA4ML) and ii) using ML techniques to improve the architecting of any software system (ML4SA). For several years, both the research and practitioner communities have now explored topics at the intersection of SA and ML, and important contributions from both communities have emerged. However, these contributions are scattered across different venues of software engineering, self-adaptation, ML, etc., and especially the rise of large language models (LLMs) has introduced new opportunities and challenges. Moreover, it is not clear how to take advantage of existing techniques while clearly defining open, industry-relevant research problems.
 
 
-The goal of SAML is therefore to bring together practitioners and researchers in one common platform to explore i) relevant SA techniques and practices for architecting ML-enabled systems, ii) how to leverage ML techniques to better architect software systems, and iii) potential synergies of these two areas. Relevant topics include but are not limited to:
+The goal of SAML is therefore to bring together practitioners and researchers in one common platform to explore i) relevant SA techniques and practices for architecting ML-enabled systems, ii) how to leverage ML techniques to better architect software systems, and iii) potential synergies of these two areas. 
+
+
+For this 5th-edition anniversary of SAML, we also choose a workshop theme for the first
+time: LLM Agents and Software Architecture. Other relevant topics include but are not limited to:
 
 
 + Architecture design & evaluation of ML-enabled systems
