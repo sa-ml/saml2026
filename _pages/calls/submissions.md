@@ -51,7 +51,7 @@ time: LLM Agents and Software Architecture. Other relevant topics include but ar
 ## Types of Contributions
 We solicit two types of submissions for SAML:
 
-+ **Registered reports (RRs)** i.e., detailed study designs that are submitted for feedback **before** study execution.
++ **Registered reports (RRs)** i.e., detailed study designs that are submitted for feedback **before** study execution (full research papers **without** Results and Discussion sections).
 Accepted RRs have a clear path to publishing a full paper in [ACM TOSEM](https://dl.acm.org/journal/tosem/registered-papers), our journal collaboration partner. RRs must not exceed 6 pages + 2 pages for references. They will mostly be evaluated based on the significance and novelty of the hypotheses or techniques, and the soundness and reproducibility of the methodology specified to validate the claims or hypotheses. More details about RRs and the expected timeline will be described below.
 
 + **Short papers**  e.g., industry experience reports or position, vision, or reflection papers, which must not exceed 5 pages + 1 page for references. They will be evaluated based on their relevance, novelty, soundness, and presentation.
@@ -79,7 +79,7 @@ The accepted papers will be published in _ICSA 2026 Companion proceedings_, and 
 
 ## Registered Reports & Expected Timeline
 
-A registered report (RR) is a type of scientific publication that focuses on the importance of the significance and design of the planned study rather than the study outcomes. It makes use of preregistration to submit a study design for review before study execution (stage 1 publication). The goals of RRs are to receive early feedback on the study design, to prevent problems like p-hacking or reviewer bias against negative results, and to allow a structured path to publishing a full paper in a journal after study execution (stage 2 publication). Naturally, RRs are more suited to confirmatory and quantitative research, but it is possible to publish an RR for more exploratory and qualitative research. A more in-depth explanation of RRs and their use in software engineering has been compiled by [Ernst and Baldassarre (2023)](https://link.springer.com/article/10.1007/s10664-022-10277-5). For more details on how our collaboration partner ACM TOSEM handles RRs, please refer to [their website](https://dl.acm.org/journal/tosem/registered-papers).
+A registered report (RR) is a type of scientific publication that focuses on the importance of the significance and design of the planned study rather than the study outcomes. It makes use of preregistration to submit a study design for review **before** study execution (stage 1 publication). Think of it as a full research paper without the Results and Discussion sections. The goals of RRs are to receive early feedback on the study design, to prevent problems like p-hacking or reviewer bias against negative results, and to allow a structured path to publishing a full paper in a journal after study execution (stage 2 publication). Naturally, RRs are more suited to confirmatory and quantitative research, but it is possible to publish an RR for more exploratory and qualitative research. A more in-depth explanation of RRs and their use in software engineering has been compiled by [Ernst and Baldassarre (2023)](https://link.springer.com/article/10.1007/s10664-022-10277-5). For more details on how our collaboration partner ACM TOSEM handles RRs, please refer to [their website](https://dl.acm.org/journal/tosem/registered-papers).
 
 With SAML, publishing RRs will play out according to the following process:
 
@@ -88,7 +88,7 @@ With SAML, publishing RRs will play out according to the following process:
 3. Each RR stage 1 submission at SAML gets one of three outcomes: reject, accept with revisions, or accept as is (notification: March 13, 2026).
 4. All accepted RR stage 1 submissions are published in the ICSA companion proceedings (camera-ready deadline: March 27, 2026).
 5. At the SAML workshop, the accepted RR stage 1 submissions are presented and discussed, with potential further improvements to the study design.
-6. The authors submit these revised RR stage 1 papers to TOSEM in the RR track (deadline: July 22, 2026).
+6. The authors submit these revised RR stage 1 papers to TOSEM in the RR track (deadline: July 22, 2026, but the earlier the better).
 7. The reviewer contact details for each accepted RR submission are forwarded to TOSEM.
 8. TOSEM invites the reviewers. If there were no (requested) changes, they greenlight the submission. Otherwise, they check the updates. Sometimes, there is a minor revision. The stage 1 submission is not published again at TOSEM.
 9. The RR stage 1 submission is accepted at TOSEM, which forms an agreement between authors and reviewers, i.e., if the described study design is followed and deviations are reasonably explained, the paper will be accepted, irrespective of the study results. The authors then execute the study and write the paper about the results.
