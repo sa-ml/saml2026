@@ -146,8 +146,8 @@ committees:
         url: /steering/
       - title: "Organizing Committee"
         url: /organization/
-      #- title: "Program Committee"
-      #  url: /committees/program/
+      - title: "Program Committee"
+        url: /committees/program/
       # - title: "Ethics Committee"
       #  url: /ethics/committee/
       # - title: "Diversity & Inclusion Committee"

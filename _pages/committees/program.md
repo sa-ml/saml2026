@@ -8,45 +8,59 @@ sidebar:
 
 ## Program Committee
 
-Steffen	Becker, University of Stuttgart, Germany
+Francesca	Arcelli Fontana,	University of Milano-Bicocca, Italy
 
-Jan Bosch,	Chalmers University of Technology, Sweden
+Jan	Bosch,	Chalmers University of Technology,	Sweden
 
-Nafise Eskandani, ABB Corporate Research, Germany	
+Neil	Ernst,	University of Victoria,	Canada
 
-Ilias Gerostathopoulos, VU Amsterdam, The Netherlands
+Nafise	Eskandani,	ABB Corporate Research,	Germany
 
-Cristina Gomez Seoane, UPC Barcelona, Spain
+Xavier	Franch,	UPC Barcelona,	Spain
 
-Ian Gorton, Northeastern University, USA
+Ilias	Gerostathopoulos,	VU Amsterdam,	The Netherlands
 
-Fabio Kon, kon@ime.usp.br, University of São Paulo, Brazil
+Cristina	Gomez Seoane,	UPC Barcelona,	Spain
 
-Grace Lewis, Carnegie Mellon Software Engineering Institute, USA
+Ian	Gorton,	Northeastern University,	USA
 
-Yue Liu, CSIRO Data61, Australia
+Jan	Keim,	Karlsruher Institut of Technology (KIT),	Germany
 
-Silverio Martínez-Fernández, UPC Barcelona, Spain
-    
-Jørn Ølmheim, Equinor, Norway
-   
-Raghu Reddy, IIIT Hyderabad, India
-   
-Alex Serban, Siemens Healthineers, The Netherlands
-    
-Julien Siebert, Fraunhofer IESE, Germany
-   
-Vincenzo Stoico, VU Amsterdam, The Netherlands
-   
-Anastas Stoyanovsky, RedHat, USA
-    
-Stefan Wagner, TU Munich, Germany
-    
-Sherry Xu, CSIRO Data61, Australia
-    
-Marc Zeller, Siemens, Germany
+Foutse	Khomh,	Polytechnique Montréal,	Canada
 
+Fabio	Kon,	University of São Paulo,	Brazil
 
+Grace	Lewis,	Carnegie Mellon Software Engineering Institute,	USA
+
+Peng	Liang,	Wuhan University,	China
+
+Yue	Liu,	Australian National University,	Australia
+
+Silverio	Martínez-Fernández,	UPC Barcelona,	Spain
+
+Henry	Muccini,	University of L'Aquila,	Italy
+
+Jørn	Ølmheim,	Equinor,	Norway
+
+Alex	Serban,	Siemens Healthineers,	The Netherlands
+
+Julien	Siebert,	Fraunhofer IESE,	Germany
+
+Vincenzo	Stoico,	VU Amsterdam,	The Netherlands
+
+Anastas	Stoyanovsky,	RedHat,	USA
+
+Karthik	Vaidhyanathan,	IIIT Hyderabad,	India
+
+Roberto	Verdecchia,	University of Florence,	Italy
+
+Stefan	Wagner,	TU Munich,	Germany
+
+Sherry	Xu,	CSIRO Data61,	Australia
+
+Boming	Xia,	University of Adelaide,	Australia
+
+Marc	Zeller,	Siemens,	Germany
 
 
 
