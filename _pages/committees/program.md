@@ -6,7 +6,6 @@ sidebar:
     nav: "committees"
 ---
 
-## Program Committee
 
 Francesca	Arcelli Fontana,	University of Milano-Bicocca, Italy
 
