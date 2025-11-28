@@ -53,7 +53,7 @@ Karthik	Vaidhyanathan,	IIIT Hyderabad,	India
 
 Roberto	Verdecchia,	University of Florence,	Italy
 
-Stefan	Wagner,	TU Munich,	Germany
+Stefan	Wagner,	Technical University of Munich,	Germany
 
 Sherry	Xu,	CSIRO Data61,	Australia
 
