@@ -23,11 +23,12 @@ The increasing use of machine learning (ML) combined with the software architect
 i) software architecture for ML-enabled systems (SA4ML) and ii) using ML techniques to improve the architecting of any software system (ML4SA). For several years, both the research and practitioner communities have now explored topics at the intersection of SA and ML, and important contributions from both communities have emerged. However, these contributions are scattered across different venues of software engineering, self-adaptation, ML, etc., and especially the rise of large language models (LLMs) has introduced new opportunities and challenges. Moreover, it is not clear how to take advantage of existing techniques while clearly defining open, industry-relevant research problems.
 
 
-The goal of SAML is therefore to bring together practitioners and researchers in one common platform to explore i) relevant SA techniques and practices for architecting ML-enabled systems, ii) how to leverage ML techniques to better architect software systems, and iii) potential synergies of these two areas. 
+The goal of SAML is therefore to bring together practitioners and researchers in one common platform to explore i) relevant SA techniques and practices for architecting ML-enabled systems, ii) how to leverage ML techniques to better architect software systems, and iii) potential synergies of these two areas.
 
+**The field of ML and AI evolved rapidly, and GenAI/LLMs are of high interest within our community, the SAML scope also includes all kinds of AI.**
 
-For this 5th-edition anniversary of SAML, we also choose a workshop theme for the first
-time: LLM Agents and Software Architecture. Other relevant topics include but are not limited to:
+Thus, for this 5th-edition anniversary of SAML, we also choose a workshop theme for the first
+time: **LLM Agents and Software Architecture**. Other relevant topics include but are not limited to:
 
 
 + Architecture design & evaluation of ML-enabled systems
@@ -69,7 +70,7 @@ The accepted papers will be published in _ICSA 2026 Companion proceedings_, and 
 
 <b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("Anywhere on Earth").</b>
 
-**Paper Deadline:** February 13, 2026
+**Paper Deadline:** ~~February 13, 2026~~ February 20, 2026
 
 **Notification of acceptance:** March 13, 2026
 

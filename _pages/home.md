@@ -22,6 +22,9 @@ The **5th International Workshop on Software Architecture and Machine Learning (
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2025-02-13 | The submission deadline has been extended to **February 20**!
+| 2025-11-22 | The PC has been confirmed! Check out [Program Committee](/program/)
+| 2025-11-07 | This year's theme of SAML will be  **LLM Agents and Software Architecture**.
 | 2025-10-27 | The official SAML 2026 website is launched.
 
 {: .news-table}
@@ -36,7 +39,7 @@ The **5th International Workshop on Software Architecture and Machine Learning (
 .news-table { font-size: .9em; table-layout: fixed;}
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| **Paper Submission** | Feb 13, 2026
+| **Paper Submission** | ~~Feb 13, 2026~~ Feb 20, 2026
 | **Notification of acceptance** | Mar 13, 2026
 | **Camera-ready** | Mar 27, 2026
 | **Author Registration**| TBA
