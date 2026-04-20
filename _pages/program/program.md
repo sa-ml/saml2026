@@ -19,7 +19,7 @@ sidebar:
 
 The workshop will take place on **Tuesday, June 23rd**.
 
-The workshop program will include paper presentations, a panel with with participants from academia and industry, and a keynote (TBA). Short papers will have 20 minutes (10 min for presentation and 10 for discussion), registered reports will have 30 minutes (10 min for presentation and 10 for discussion).
+The workshop program will include paper presentations, a panel with with participants from academia and industry, and a keynote (TBA). Short papers will have 20 minutes (10 min for presentation and 10 minutes for discussion), registered reports will have 30 minutes (15 minutes for presentation and 15 minutes for discussion).
 
 <!--The workshop program will include paper presentations, a panel with with participants from academia and industry, and a [keynote](/program/keynotes).-->
 
