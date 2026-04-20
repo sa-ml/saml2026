@@ -16,8 +16,8 @@ main:
   - title: "Call for Papers"
     url: /calls/submissions
 
-  #- title: "Program"
-  #  url: /program/
+  - title: "Program"
+    url: /program/
   
   - title: "Venue"
     url: /venue
