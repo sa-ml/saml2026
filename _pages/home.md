@@ -22,7 +22,7 @@ The **5th International Workshop on Software Architecture and Machine Learning (
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| 2025-04-20 | SAML 2026 will take place on June 23rd, 2026. Check out our [workshop program](/saml2026/program)!
+| 2025-04-20 | SAML 2026 will take place on **June 23rd**, 2026. Check out our [workshop program](/saml2026/program)!
 | 2025-02-13 | The submission deadline has been extended to **February 20**! Check out [Call for Papers](/saml2026/calls/submissions) for an explanation of the SAML scope!
 | 2025-11-22 | The PC has been confirmed! Check out [Program Committee](/saml2026/committees/program/)
 | 2025-11-13 | SAML 2026 also provides the outstanding opportunity to submit registered reports in cooperation with ACM TOSEM! Check out [Call for Papers](/saml2026/calls/submissions) for more details!
