@@ -33,7 +33,7 @@ The workshop program will include paper presentations, a panel with with partici
 | 11:20 | 11:40 | Andreas Rausch and Stefan Wittek: **Engineering Agentic AI Systems: A C4-Based Description Technique and Industrial Experience** |
 | 11:40 | 12:00 | Giovanna Belasco, Pedro Delgado, Vinicius dos Santos, Rick Kazman and Elisa Yumi Nakagawa: **Towards Architecting LLM-based Systems** |
 | 12:00 | 11:30 | Gizealew Alazie Dagnaw and Henry Muccini: **Architecting Cognitive Federated Digital Twins with LLM Agents for Privacy-Preserving Adaptive Systems** |
-| 12:30 | 13:30 | Lunch |
+| 12:30 | 13:30 | Lunch Break|
 | 13:30 | 13:50 | Riccardo Terrenzi, Phongsakon Mark Konrad, Tim Lukas Adam and Serkan Ayvaz: **A Reference Architecture for Agentic Hybrid Retrieval in Dataset Search** |
 | 13:50 | 14:10 | Pedro Delgado, Giovanna Belasco, Damian Tamburri and Elisa Yumi Nakagawa: **Understanding Architectural Approaches for MLOps Systems** |
 | 14:10 | 14:30 | Nicolai Schoch and Nafise Eskandani: **From Agent-First to Deterministic-First: Architectural Design Decisions for Engineering Data Extraction** |
