@@ -19,7 +19,7 @@ sidebar:
 
 The workshop will take place on **Tuesday, June 23rd**.
 
-The workshop program will include paper presentations, a panel with with participants from academia and industry, and a [keynote by Jan Bosch](/program/keynotes/). Short papers will have 20 minutes (10 min for presentation and 10 minutes for discussion), registered reports will have 30 minutes (15 minutes for presentation and 15 minutes for discussion).
+The workshop program will include paper presentations, a panel with with participants from academia and industry, and a [keynote by Jan Bosch](/saml2026/program/keynotes/). Short papers will have 20 minutes (10 min for presentation and 10 minutes for discussion), registered reports will have 30 minutes (15 minutes for presentation and 15 minutes for discussion).
 
 <!--The workshop program will include paper presentations, a panel with with participants from academia and industry, and a [keynote](/program/keynotes).-->
 
@@ -27,7 +27,7 @@ The workshop program will include paper presentations, a panel with with partici
 | Start |  End  | Session                             |
 | :---: | :---: | :---------------------------------- |
 | 09:00 | 09:15 | **Welcome and Intro from the SAML OC** |
-| 09:15 | 10:30 | [**Keynote: "Towards AI-driven systems that continuously learn" by Jan Bosch**](/program/keynotes/) |
+| 09:15 | 10:30 | [**Keynote: "Towards AI-driven systems that continuously learn" by Jan Bosch**](/saml2026/program/keynotes/) |
 | 10:30 | 11:00 | Coffee Break |
 | 11:00 | 11:20 | Duncan Kampert, Thomas van Osch, Bas van der Vlies, Jaap Dijkshoorn and Xavier Álvarez-Farré: **Willma: a production-ready inference platform for generative AI in the Dutch education sector** |
 | 11:20 | 11:40 | Andreas Rausch and Stefan Wittek: **Engineering Agentic AI Systems: A C4-Based Description Technique and Industrial Experience** |

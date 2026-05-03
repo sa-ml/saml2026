@@ -21,7 +21,7 @@ The **5th International Workshop on Software Architecture and Machine Learning (
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| 2026-05-03 | We are proud to announce that the [SAML 2026 keynote will be presented by Jan Bosch](/saml26/program/keynotes/)!
+| 2026-05-03 | We are proud to announce that the [SAML 2026 keynote will be presented by Jan Bosch](/saml2026/program/keynotes/)!
 | 2025-04-20 | SAML 2026 will take place on **June 23rd**, 2026. Check out our [workshop program](/saml2026/program)!
 | 2025-02-13 | The submission deadline has been extended to **February 20**! Check out [Call for Papers](/saml2026/calls/submissions) for an explanation of the SAML scope!
 | 2025-11-22 | The PC has been confirmed! Check out [Program Committee](/saml2026/committees/program/)
