@@ -39,7 +39,7 @@ The workshop program will include paper presentations, a panel with with partici
 | 14:10 | 14:30 | Nicolai Schoch and Nafise Eskandani: **From Agent-First to Deterministic-First: Architectural Design Decisions for Engineering Data Extraction** |
 | 14:30 | 15:00 | Moustapha El Outmani, Ahmad Hatahet, Daniel Alexander Osterholz, Andreas Rausch and Manthan Venkataramana Shenoy: **Knowledge-Guided Architecture Documentation Recovery with Evidence Grounding and Traceability: A Registered Report (Stage 1)** |
 | 15:00 | 15:30 | Coffee Break |
-| 15:30 | 16:45 | **Panel Discussion** Moderator: Justus Bogner; Panel speakers: Patrizio Pelliccione (Gran Sasso Science Institute), Heiko Koziolek (ABB Corporate Research), Karthik Vaidhyanathan (IIIT Hyderabad)|
+| 15:30 | 16:45 | **Panel Discussion** -- Moderator: Justus Bogner; Panel speakers: Patrizio Pelliccione (Gran Sasso Science Institute), Heiko Koziolek (ABB Corporate Research), Karthik Vaidhyanathan (IIIT Hyderabad)|
 | 16:45 | 17:00 | **Closing** |
 
 
